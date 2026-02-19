@@ -2,7 +2,8 @@
  Analysis of the sales dataset to give management a better view of the business performance.
 
  ## Dashboard
- ![dashboard-image](powerbi.png.png)
+ ![dashboard-image](powerbi.png)
+
 
  ## Executive Summary
 - Retail Co lacked the required structure that’ll enable them to make accurate data driven decisions for their business.
