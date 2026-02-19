@@ -2,7 +2,7 @@
  Analysis of the sales dataset to give management a better view of the business performance.
 
  ## Dashboard
- ![dashboard-image](powerbi.png)
+ ![dashboard-image](https://github.com/bennyann12/retailco-analysis/raw/main/powerbi.png)
 
 
  ## Executive Summary
