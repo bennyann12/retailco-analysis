@@ -2,7 +2,7 @@
  Analysis of the sales dataset to give management a better view of the business performance.
 
  ## Dashboard
- ![dashboard-image](powerbii.png)
+ ![dashboard-image](powerbii.PNG)
 
 
  ## Executive Summary
