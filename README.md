@@ -2,7 +2,7 @@
  Analysis of the sales dataset to give management a better view of the business performance.
 
  ## Dashboard
- ![dashboard-image](powerbii.PNG)
+ ![dashboard-image](powerbi.png)
 
 
  ## Executive Summary
@@ -52,5 +52,5 @@ Sales peaked in May accounting for $173K and by September sales dropped to the l
 - The return rate is extremely poor at a 35% return rate. So that means that 65% of all orders were returned. This needs to be looked into as it directly impacts total sales and subsequently profit. 
 
 ## Link
-
+[Link to Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDU2MGY3MjItMzRkNC00OWUzLThkMmYtZTNhNTQ0Njk4NTg3IiwidCI6IjM1ZGY0MTI3LTE5NmQtNDY1ZS1iMzA0LTk1YmQzOTUwYzM1YyJ9)
 
